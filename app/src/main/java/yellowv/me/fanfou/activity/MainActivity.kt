@@ -1,4 +1,4 @@
-package yellowv.me.fanfou
+package yellowv.me.fanfou.activity
 
 import android.os.Bundle
 import android.support.design.widget.Snackbar
@@ -7,6 +7,7 @@ import android.view.Menu
 import android.view.MenuItem
 
 import kotlinx.android.synthetic.main.activity_main.*
+import yellowv.me.fanfou.R
 
 class MainActivity : AppCompatActivity() {
 
